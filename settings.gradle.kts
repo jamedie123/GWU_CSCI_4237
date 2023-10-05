@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HelloWorld5"
+rootProject.name = "LogInApp"
 include(":app")
  
